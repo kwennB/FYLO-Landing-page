@@ -315,6 +315,7 @@ p.hover:hover{
       }
       .actions input{
           margin: .2rem;
+          width: 10rem;
       }
 
       .footer-container{
@@ -395,7 +396,8 @@ p.hover:hover{
   margin-bottom: 1.5rem;
   }
   .actions input{
-      margin: .2rem;
+      margin-bottom: .2rem;
+      width: 5rem;
   }
   .footer-container{
       width: 100%;
