@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution](https://github.com/kwennB/FYLO-Landing-page)
+- Live Site URL: [live site](https://kwennb.github.io/FYLO-Landing-page/)
 
 
 ### Built with
@@ -48,7 +48,7 @@ Going forward, I have resolved to harness my CSS skills, especially the CSS Grid
 ## Author
 
 - Website - [Kwenn Bibi]
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/kwennB)
+- Frontend Mentor - [@KwennB](https://www.frontendmentor.io/profile/kwennB)
 - Twitter - [@kwennB](https://www.twitter.com/kwennB)
 
 
