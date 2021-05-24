@@ -59,15 +59,18 @@ body{
 /* Hero section- Section 1*/
 
 .hero{
-    margin: 10px auto;
+    display: grid;
+    grid-template: 1fr;
+    justify-content: center;
+    align-items: center;
+ /*   margin: 10px auto;
     width: 50%;
     display: flex;
-    flex-wrap: wrap;
-    align-items: center;
+    flex-wrap: wrap; */
 
 }
 .hero img{
-    width: 30rem;
+    width: 100%;
     padding: 1rem;
 }
 .hero h2{
@@ -185,13 +188,14 @@ p.hover:hover{
 .wrapper h6{
     margin: 0 5rem 0 4rem;
 }
+
  /* Section 5 - Sign up, customer care section*/
 
 .box{
     width: 50%;
     background-color: var(--DarkBlue-intro-email); 
-    height: 15rem;
-    padding: 4rem;
+    height: 50%;
+    padding: 3rem;
     margin: 15px auto;
     margin-bottom: -30px; 
 }
@@ -315,7 +319,7 @@ p.hover:hover{
       }
       .actions input{
           margin: .2rem;
-          width: 10rem;
+          width: 100%;
       }
 
       .footer-container{
@@ -372,7 +376,7 @@ p.hover:hover{
         width: 100%;
     }
     .section .stay-productive img{
-        width: 30rem;
+        width: 100%;
         padding: 0;
     }
     .section .stay-productive-text{
@@ -397,7 +401,7 @@ p.hover:hover{
   }
   .actions input{
       margin-bottom: .2rem;
-      width: 5rem;
+      width: 100%;
   }
   .footer-container{
       width: 100%;
@@ -430,10 +434,10 @@ p.hover:hover{
 
 @media only screen and (max-width: 64rem){
     html{
-        font-size: 100%;
+        font-size: 80%;
       }
       .navigation .logo{
-        width: 6rem;
+        width: 5rem;
         }
         .navigation{
             margin: 0;
@@ -451,7 +455,7 @@ p.hover:hover{
             margin-bottom: 5rem;
         }
         .section .stay-productive img{
-            width: 30rem;
+            width: 100%;
             padding: 0;
         }
         .section .stay-productive-text{
